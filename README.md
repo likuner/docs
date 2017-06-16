@@ -2,6 +2,6 @@
 keep young, keep simple.
 
 <div align=center>
-![es6.jpg](cv/es6.jpg "es6.jpg")
+<img src="cv/es6.jpg" width="" height="" alt="ES6"/>
 </div>
 
